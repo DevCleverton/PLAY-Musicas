@@ -16,8 +16,4 @@ Prints:
 
 Fotos e músicas 
 
-[https://unsplash.com/](url)
-
-[https://mixkit.co/free-stock-video/team/?page=2](url)
-
 
