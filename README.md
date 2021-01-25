@@ -6,7 +6,7 @@ O player de música HTML + CSS e JS é parte de uma série de desafios pessoais 
 
 
 Pré-visualizar: 
-[https://bit.ly/3me2ZD6](url)
+[](url)
 
 Prints:
 
